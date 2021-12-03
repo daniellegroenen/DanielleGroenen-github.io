@@ -15,8 +15,8 @@ Be all you can be
 
 ## Countries visited
 
-Belgium
-England
-The Netherlands
-<Country_4>
-<Country_5>
+-Belgium
+-England
+-The Netherlands
+-Ireland
+-Switzerland
