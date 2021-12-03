@@ -9,11 +9,11 @@ At IMPACT, I work with various Earth Science 🌎 data, products and algorithms.
 
 🎨  When I'm not working, I like to read and watch horror movies.
 
-Favorite quot
+## Favorite quote
 
 Be all you can be
 
-Countries visited
+## Countries visited
 
 Belgium
 England
