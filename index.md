@@ -13,10 +13,10 @@ Favorite quot
 
 Be all you can be
 
-States visited
+Countries visited
 
-Florida
-Virginia
-Alabama
-Washington 
-California
+Belgium
+England
+The Netherlands
+<Country_4>
+<Country_5>
